@@ -35,14 +35,13 @@ class MainActivity : AppCompatActivity() {
     }
 
     private fun configureImage() {
-        profileImage.setImageDrawable(AppCompatResources.getDrawable(this, R.drawable.ic_launcher_foreground))
+        profileImage.setImageDrawable(AppCompatResources.getDrawable(this, R.drawable.avatar_15))
     }
 
     private fun configureName() {
-        profileName.text = getString(
-            R.string.full_name,
-            getString(R.string.first_name),
+        profileName.text =
+            getString(R.string.first_name)+
             getString(R.string.last_name)
-        )
+
     }
 }
