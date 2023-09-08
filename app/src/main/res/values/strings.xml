@@ -5,10 +5,10 @@
     <string name="last_name">Perez</string>
     <string name="full_name">Gerardo Perez</string>
 
-    <string name="profile_bio_text">This a short bio about myself.\nIt has multiple lines because I am\na complex being.</string>
+    <string name="profile_bio_text">Hello, I am a rising junior at \nNorthwestern University. I am  \nmajoring in Computer Science \nand minoring in Latino Studies.</string>
 
     <string name="profile_hobby_header_text">Greatest Hobbies of All Time:</string>
     <string name="profile_hobby_first_text">🥇 Photography</string>
-    <string name="profile_hobby_second_text">🥈 Gaming</string>
-    <string name="profile_hobby_third_text">🥉 Biking</string>
+    <string name="profile_hobby_second_text">🥈 Biking</string>
+    <string name="profile_hobby_third_text">🥉 Gaming</string>
 </resources>

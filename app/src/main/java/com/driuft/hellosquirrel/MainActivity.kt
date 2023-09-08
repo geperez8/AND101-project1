@@ -35,7 +35,7 @@ class MainActivity : AppCompatActivity() {
     }
 
     private fun configureImage() {
-        profileImage.setImageDrawable(AppCompatResources.getDrawable(this, R.drawable.avatar_15))
+        profileImage.setImageDrawable(AppCompatResources.getDrawable(this, R.drawable.duck_emoji))
     }
 
     private fun configureName() {
