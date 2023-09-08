@@ -40,8 +40,7 @@ class MainActivity : AppCompatActivity() {
 
     private fun configureName() {
         profileName.text =
-            getString(R.string.first_name)+
-            getString(R.string.last_name)
+            getString(R.string.first_name)
 
     }
 }
